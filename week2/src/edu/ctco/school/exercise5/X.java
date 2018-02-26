@@ -4,7 +4,7 @@ class X
 {
     protected int i = 1221;
 
-    private void methodOfX()
+    public void methodOfX()
     {
         System.out.println(i);
     }

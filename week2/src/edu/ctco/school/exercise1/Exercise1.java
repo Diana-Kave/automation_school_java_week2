@@ -11,7 +11,7 @@ public class Exercise1
 
  class SubExercise1
     {
-        //Inner class. The main feature of an inner class is its capability to access even private members of the outer class.
+        //Inner class. Only inner classes can be private. can be public and protected.
     }
 }
 

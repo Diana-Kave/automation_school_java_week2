@@ -2,6 +2,7 @@ package edu.ctco.school.exercise7;
 
 /**
  * What will be the output ?
+ * A
  */
 public class MainClass
 {

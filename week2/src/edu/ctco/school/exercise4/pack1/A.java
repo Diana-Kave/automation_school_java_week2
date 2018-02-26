@@ -1,4 +1,11 @@
 package edu.ctco.school.exercise4.pack1;
 
-class A {
+
+public class A {
+    int x;
+
+    public void printIt() {
+
+        System.out.println("method in class A");
+    }
 }
